@@ -1,0 +1,11 @@
+body {
+    font-family: 'Bodoni Moda', serif; /* Font style */
+    margin: 0; /* Removes default margin */
+    padding: 0; /* Removes default padding */
+    background-image: url('assets/portrait4.jpeg'); /* Path to the image */
+    background-repeat: repeat; /* Makes the image repeat */
+    background-size: auto; /* Keeps the image at its original size */
+    background-position: top left; /* Tiling starts from the top-left corner */
+    color: #333; /* Text color for readability */
+    text-align: center; /* Centers text horizontally */
+}
